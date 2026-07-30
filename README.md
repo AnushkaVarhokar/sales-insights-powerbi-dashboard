@@ -10,9 +10,9 @@ The dashboard enables users to analyze **revenue trends**, **sales quantity**, *
 
 ## 📷 Dashboard Preview
 
-> *(Add your dashboard screenshot below)*
 
-![Sales Insights Dashboard](screenshots/dashboard_overview.png)
+<img width="1195" height="752" alt="dashboard_overview" src="https://github.com/user-attachments/assets/92cc6f09-614d-49be-9a49-9fa5848c8ac1" />
+
 
 ---
 
