@@ -125,7 +125,7 @@ AND d.month_name = 'March';
 More SQL queries are available in:
 
 ```
-sql_queries/business_queries.sql
+Sql Queries.sql
 ```
 
 ---
@@ -187,7 +187,7 @@ Sales_Insights_PowerBI_Project
 │   └── dashboard_overview.png
 │
 └── sql_queries
-    └── business_queries.sql
+    └── Sql Queries.sql
 ```
 
 ---
